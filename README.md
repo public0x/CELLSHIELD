@@ -183,8 +183,10 @@ The authors and institution are not responsible for misuse of this software.
 
 ---
 
-## 📄 License
+## 🔒 License & Copyright
+**© 2026 German-Malaysian Institute (GMI). All Rights Reserved.**
 
-This project is licensed under the MIT License — see the `LICENSE` file for details.
+This project is the exclusive intellectual property of the **German-Malaysian Institute**.
+Unauthorized copying, distribution, modification, commercial use, or sale of this software is **strictly prohibited**.
 
-Intellectual property rights belong to the German-Malaysian Institute.
+This repository exists for **educational and portfolio purposes only**.
