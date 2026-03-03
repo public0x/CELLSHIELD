@@ -126,7 +126,7 @@ object AuthManager {
             }
     }
 
-    // --- 👇 ADD THIS NEW FUNCTION ---
+ 
     /**
      * Updates the current user's phone number using a verified credential.
      * This is a security-sensitive operation and may require recent re-authentication.
